@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # **ServiceNow Auto Assign Analytics**
 
 
