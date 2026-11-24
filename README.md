@@ -81,10 +81,3 @@ Power BI Dashboard
 dbt Models
 
 
-
-
-
-=======
-# servicenow-auto-assign-ticket-analytics
-ServiceNow ticket auto assign, Ticket collection, SQLite storage and Power BI reporting solution.
->>>>>>> c566dc58000524af427da4c9546dc794e9abe42b
