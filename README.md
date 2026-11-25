@@ -3,7 +3,7 @@
 
 
 
-Python automation pipeline for assigning tickets automatically, collecting ServiceNow ticket data and storing it in SQLite for analytics and Power BI reporting
+Built an end-to-end data engineering solution using Python automation pipeline for assigning tickets automatically, collecting ServiceNow ticket data and storing it in SQLite for analytics and Power BI reporting
 
 
 
